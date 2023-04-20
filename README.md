@@ -5,6 +5,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 This is a project included in the Udemy course _Complete Next.js Developer in 2023: Zero to Mastery_.
 The app will be deployed to Cyclic.ch.
 
+Most of the css styling is from course materials.
+
 ### Getting Started
 
 First, run the development server:
