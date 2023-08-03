@@ -7,6 +7,11 @@ The app is deployed to Vercel.com, so it can be tested [here](https://discover-c
 
 Most of the css styling is from course materials.
 
+### Used integrations
+- Airtable
+- Foursquare
+- Unsplash
+
 ### Getting Started
 
 First, run the development server:
